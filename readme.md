@@ -16,9 +16,10 @@ git help commit
 git help push
 git log --graph  Opciones adicionales para ver los commits 
 git log --graph --abbrev-commit --decorate  mas informacion de los commit
-git checkout (id del commit)
-git checkout -b (Nombre de rama)
+git checkout (id del commit) llegar a un commit
+git checkout -b (Nombre de rama) crea una nueva rama
 git branch Verifica en que rama estoy ubicado
+git checkout nombre rama para ir a una rama especifica
 git diff file Diferencias que existen segun los cambios.
 git merge (rama) Hace una fusion de las ramas
 gitk Interfaz amigable para visualizar las ramas.
