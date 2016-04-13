@@ -23,3 +23,6 @@ git checkout nombre rama para ir a una rama especifica
 git diff file Diferencias que existen segun los cambios.
 git merge (rama) Hace una fusion de las ramas
 gitk Interfaz amigable para visualizar las ramas.
+
+git remote add origin https://github.com/luna1105/CapacitacionOpa.git
+git push -u origin master
