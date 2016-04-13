@@ -6,8 +6,8 @@ git init -->> crea repositorio git .git
 git add file 
 git add -A
 git commit -m "Version inicial"
-git config --global user.name "Christian Salazar"
-git config --global user.email "ccsalazarj@gmail.com"
+git config --global user.name "luna"
+git config --global user.email "andrea.22.agu@gmail.com"
 git config --global color.ui true
 git config --global --list
 git help 
