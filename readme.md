@@ -4,6 +4,7 @@ install editor de texto
 
 git init -->> crea repositorio git .git
 git add file 
+git add -A
 git commit -m "Version inicial"
 git config --global user.name "Christian Salazar"
 git config --global user.email "ccsalazarj@gmail.com"
@@ -14,6 +15,7 @@ git help add
 git help commit 
 git help push
 git log --graph  Opciones adicionales para ver los commits 
+git log --graph --abbrev-commit --decorate  mas informacion de los commit
 git checkout (id del commit)
 git checkout -b (Nombre de rama)
 git branch Verifica en que rama estoy ubicado
